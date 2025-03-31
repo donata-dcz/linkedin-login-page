@@ -9,4 +9,4 @@ Pour le moment, afin d'accéder à ma page, veuillez d'abord clone mon repo.
 Par la suite utilisez les commandes "npm install", afin d'installer sur votre machine les dépendances reliées à Vite, et "npm run dev" pour lancer la page.
 Enfin, rendez-vous sur la page http://localhost:5173/ afin de pouvoir découvir mon chef d'oeuvre !
 
-Merci de votre attention, et à bientôt !
+Merci de votre attention, et à très bientôt je l'espère !
