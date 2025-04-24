@@ -1,7 +1,7 @@
 # linkedin-login-page
 Hello ! 👋
 
-J’ai recréé la page de connexion de LinkedIn en HTML, CSS et JavaScript lors du Rush final de la piscine Software organisée par POC. Après cette première version, j’ai décidé de l’améliorer !
+J’ai recréé la page de connexion de LinkedIn en HTML, CSS et JavaScript lors du Rush final de la piscine Software organisée par POC Innovation. Après cette première version, j’ai décidé de l’améliorer !
 
 J’ai donc :
 
